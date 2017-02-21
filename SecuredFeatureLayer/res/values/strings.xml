@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SecuredFeatureLayer</string>
+    <!-- map services -->
+    <string name="basemap_url">http://services.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer</string>
+    <string name="dynamiclayer_url">http://sampleserver6.arcgisonline.com/arcgis/rest/services/SaveTheBay/MapServer</string>
+    <string name="featureserver_url">http://sampleserver6.arcgisonline.com/arcgis/rest/services/SaveTheBay/FeatureServer/1</string>
+</resources>

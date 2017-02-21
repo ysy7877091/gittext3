@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="config.user.name">user1</string>
+    <string name="config.user.passwd">user1</string>
+
+</resources>
